@@ -1,5 +1,3 @@
-# Install TA-Lib (if not installed)
-!pip install ta
 
 # Import libraries
 import pandas as pd
